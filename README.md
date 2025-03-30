@@ -1,4 +1,4 @@
-基于SSM仓库管理系统+LW
+基于SSM汉服推广网站+LW
 
 毕业设计所有选题地址： https://github.com/Good-Night-Unicorn?tab=repositories
 
